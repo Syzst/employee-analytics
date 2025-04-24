@@ -21,14 +21,14 @@ employee-analytics/
 
 ## 🧠 Model Overview
 
-The model uses **K-Means clustering (K=3)** to segment employees based on attributes such as job role, department, salary, work-life balance, and performance.
+The model uses **K-Means clustering (K=3)** to segment employees based on attributes such as job role, department, salary, work-life balance, performance rating, etc.
 
 ---
 
 ## ✅ Requirements
 
 - Python 3.6+
-- Required packages: `pandas`, `numpy`, `scikit-learn`, `joblib`
+- Required packages: `pandas`, `numpy`, `scikit-learn`, `joblib`, `etc`
 
 Install dependencies using:
 
