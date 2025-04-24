@@ -86,7 +86,7 @@ The script will:
 - Predict clusters
 
 - Save results to employee_segments_results.csv
-- 
+  
 <br> 
 
 📊 Expected Input Format
@@ -114,10 +114,12 @@ All input data
 A new column: employee_segment with values: 0, 1, or 2
 
 Example:
-
-job_role	        monthly_income	gender	  ...	    employee_segment
-Sales Executive	      4200	       Male	    ...	            1
-Human Resource	      7200	       Female	  ...	            0
+```
+| Job Role         | Monthly Income | Gender | ... | Employee Segment |
+|------------------|----------------|--------|-----|------------------|
+| Sales Executive  | 4200           | Male   | ... | 1                |
+| Human Resource   | 7200           | Female | ... | 0                |
+```
 
 <br> 
 
