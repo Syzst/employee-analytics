@@ -1,4 +1,4 @@
-# 🧠 Employee Segmentation Model Usage Guide
+# Employee Segmentation Model Usage Guide
 
 This guide explains how to use the KMeans clustering model for employee segmentation using two different script modes: from **Google Drive** or from **local file upload**.
 
@@ -17,7 +17,7 @@ employee-analytics/
 ```
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 The model uses **K-Means clustering (K=3)** to segment employees based on attributes such as job role, department, salary, work-life balance, performance rating, etc.
 
