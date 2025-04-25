@@ -12,8 +12,6 @@ employee-analytics/
 ├── prediction.py            # Prediction script (uses Google Drive paths)
 ├── prediction_local.py      # Local prediction script (manual file upload)
 ├── README.md                # This documentation file
-├── @ilhamaji-dashboard/     # Folder for dashboard's screenshots
-├── @ilhamaji-video/         # Folder for video documentation
 ├── metabase.db.mv.db        # Metabase database file
 └── requirements.txt         # List of Python dependencies
 ```
